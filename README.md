@@ -16,3 +16,5 @@ MP:
 ZB:
  - Inf Ammo
  - More very soon :3
+
+# Version 2.0
