@@ -17,4 +17,5 @@ ZB:
  - Inf Ammo
  - More very soon :3
 
-# Version 2.0
+
+# Latest: V2.0
