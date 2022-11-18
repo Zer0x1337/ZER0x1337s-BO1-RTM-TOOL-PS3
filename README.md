@@ -2,9 +2,11 @@
 A quick up to date BO1 nonhost RTM tool... If anybody knows how to find or where to get latest offsets for games on the PS3 DM me!
 
 
-# Features (So Far..)
+# Change-log [Latest: V2.0]
 
-MP:
+V2.0:
+
+MP
  - Red Box ESP
  - Wallhack
  - Blackbird
@@ -13,9 +15,7 @@ MP:
  - Rapid fire
  
  
-ZB:
+ZB
  - Inf Ammo
  - More very soon :3
 
-
-# Latest: V2.0
