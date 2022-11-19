@@ -1,4 +1,4 @@
-# Join the discord for more tools! 
+# Join the discord for more tools in the future! 
  - https://discord.com/invite/R9zrq9wzby
 #
 A quick up to date BO1 nonhost RTM tool.
