@@ -6,7 +6,7 @@ Want me to post source code? Let me know in the Discord!
 # ZER0x1337s BO1 RTM Tool
 A quick up to date BO1 nonhost RTM tool.
 
-![Screenshot](https://media.discordapp.net/attachments/874813226230095883/1043329527411118131/image.png)
+![Screenshot](https://cdn.discordapp.com/attachments/1043014215058858027/1043415492448239677/image.png)
 
 #
 # Change-log [Latest: V2.1]
