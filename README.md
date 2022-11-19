@@ -1,4 +1,3 @@
-#
 # Join the discord for more tools in the future! 
  - https://discord.com/invite/R9zrq9wzby
  
