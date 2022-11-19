@@ -3,7 +3,7 @@
 #
 A quick up to date BO1 nonhost RTM tool.
 
-![alt text](https://discord.com/channels/1043014214534565929/1043014215058858027/1043329036409126953)
+![Screenshot](https://media.discordapp.net/attachments/874813226230095883/1043329527411118131/image.png)
 
 # Change-log [Latest: V2.0]
 
