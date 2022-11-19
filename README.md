@@ -1,13 +1,12 @@
-# Join the discord for more tools in the future! 
- - https://discord.com/invite/R9zrq9wzby
- 
+# Join the discord server for more tools in the future! 
+ - Join the Server: https://discord.com/invite/R9zrq9wzby
+
 Want me to post source code? Let me know in the Discord!
 #
 # ZER0x1337s BO1 RTM Tool
 A quick up to date BO1 nonhost RTM tool.
 
 ![Screenshot](https://cdn.discordapp.com/attachments/1043014215058858027/1043415492448239677/image.png)
-
 #
 # Change-log [Latest: V2.1]
 
